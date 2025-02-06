@@ -5,17 +5,17 @@ A REST API server for managing hackathon attendee badge scans and activity track
 ## Setup
 
 1. Install dependencies:
-\`\`\`bash
+\`\`\`
 npm install
 \`\`\`
 
 2. Create the database and load initial data:
-\`\`\`bash
+\`\`\`
 npm run setup
 \`\`\`
 
 3. Start the server:
-\`\`\`bash
+\`\`\`
 npm start
 \`\`\`
 
@@ -78,7 +78,7 @@ npm start
 ## Testing
 
 Run tests with:
-\`\`\`bash
+\`\`\`
 npm test
 \`\`\`
 
