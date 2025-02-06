@@ -89,5 +89,3 @@ The API returns appropriate HTTP status codes:
 - 400: Bad Request
 - 404: Not Found
 - 500: Server Error
-
-All error responses include a message explaining the error.
